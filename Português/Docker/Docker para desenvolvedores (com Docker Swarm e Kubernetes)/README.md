@@ -1,7 +1,5 @@
 # Docker para Desenvolvedores (com Docker Sawrm e Kubernetes)
 
-<p align="center">![Untitled](docker-logo.png)</p>
-
 Todas as minhas anotações do curso **Docker para desenvolvedores (com Docker Swarm e Kubernetes).**
 
 Instrutor: Matheus Battisti
@@ -11,8 +9,8 @@ Plataforma: [Udemy](https://www.udemy.com/course/docker-para-desenvolvedores-com
 
 Sumário:
 
-- [x] ![Introdução](introdução.md)
-- [x] ![Trabalhando com Containers](trabalhando-com-containers.md)
+- [x] [Introdução](introdução.md)
+- [x] [Trabalhando com Containers](trabalhando-com-containers.md)
 - [ ] Criando imagens e avançando em containers
 - [ ] Introduzindo volumes aos nossos containers
 - [ ] Conectando containers com Networks
