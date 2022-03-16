@@ -1,1 +1,1 @@
-# Soon all my notes translated into English.
+# All my English notes will be available soon.
