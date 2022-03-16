@@ -1,6 +1,6 @@
 # Docker para Desenvolvedores (com Docker Sawrm e Kubernetes)
 
-![Untitled](docker-logo.png)
+<p align="center">![Untitled](docker-logo.png)</p>
 
 Todas as minhas anotações do curso **Docker para desenvolvedores (com Docker Swarm e Kubernetes).**
 
