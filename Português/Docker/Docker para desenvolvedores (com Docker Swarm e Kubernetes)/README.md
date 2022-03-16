@@ -13,13 +13,13 @@ Sumário:
 
 - [x] Introdução
 - [x] Trabalhando com Containers
-- [] Criando imagens e avançando em containers
-- [] Introduzindo volumes aos nossos containers
-- [] Conectando containers com Networks
-- [] Introdução ao YAML
-- [] Gerenciando múltiplos containers com Docker Compose
-- [] Docker Sawrm para orquestração
-- [] Orquestração com Kubernetes
+- [ ] Criando imagens e avançando em containers
+- [ ] Introduzindo volumes aos nossos containers
+- [ ] Conectando containers com Networks
+- [ ] Introdução ao YAML
+- [ ] Gerenciando múltiplos containers com Docker Compose
+- [ ] Docker Sawrm para orquestração
+- [ ] Orquestração com Kubernetes
 
 ---
 
