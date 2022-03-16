@@ -1,0 +1,1 @@
+# Soon all my notes translated into English.
