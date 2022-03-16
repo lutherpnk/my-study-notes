@@ -11,8 +11,8 @@ Plataforma: [Udemy](https://www.udemy.com/course/docker-para-desenvolvedores-com
 
 Sumário:
 
-- [x] Introdução
-- [x] Trabalhando com Containers
+- [x] ![Introdução](introdução.md)
+- [x] ![Trabalhando com Containers](trabalhando-com-containers.md)
 - [ ] Criando imagens e avançando em containers
 - [ ] Introduzindo volumes aos nossos containers
 - [ ] Conectando containers com Networks
